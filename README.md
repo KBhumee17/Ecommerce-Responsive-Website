@@ -1,7 +1,8 @@
 🚀 Cara - Responsive E-Commerce Website 🛍️
 
-
 Cara is a fully responsive e-commerce website designed to enhance my web development skills. This project focuses on clean UI, smooth user experience, and mobile-friendly design.
+
+🔗 [Live Demo](https://inquisitive-daifuku-6747db.netlify.app/)
 
 
 💻 Tech Stack:
